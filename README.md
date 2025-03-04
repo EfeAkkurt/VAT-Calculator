@@ -16,5 +16,3 @@ This is a simple console application that calculates the total price of a produc
 
 - **Product Price**: `100`
 - **VAT Amount**: `20`
-
-Output:
