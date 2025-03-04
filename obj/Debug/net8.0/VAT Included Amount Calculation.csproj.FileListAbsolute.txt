@@ -1,0 +1,28 @@
+D:\works (acunmedia)\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.exe
+D:\works (acunmedia)\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.deps.json
+D:\works (acunmedia)\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.runtimeconfig.json
+D:\works (acunmedia)\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.dll
+D:\works (acunmedia)\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.pdb
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.AssemblyInfoInputs.cache
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.AssemblyInfo.cs
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.csproj.CoreCompileInputs.cache
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.dll
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\refint\VAT Included Amount Calculation.dll
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.pdb
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.genruntimeconfig.cache
+D:\works (acunmedia)\VAT Included Amount Calculation\obj\Debug\net8.0\ref\VAT Included Amount Calculation.dll
+D:\works\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.exe
+D:\works\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.deps.json
+D:\works\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.runtimeconfig.json
+D:\works\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.dll
+D:\works\VAT Included Amount Calculation\bin\Debug\net8.0\VAT Included Amount Calculation.pdb
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.AssemblyInfoInputs.cache
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.AssemblyInfo.cs
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.csproj.CoreCompileInputs.cache
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.dll
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\refint\VAT Included Amount Calculation.dll
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.pdb
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\VAT Included Amount Calculation.genruntimeconfig.cache
+D:\works\VAT Included Amount Calculation\obj\Debug\net8.0\ref\VAT Included Amount Calculation.dll
